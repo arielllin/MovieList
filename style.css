@@ -1,0 +1,11 @@
+.list {
+  border-top: 1px solid #b6b7b8;
+  padding: 16px;
+}
+
+
+@media (min-width: 576px) {
+  .modal-box {
+    max-width: 700px;
+  }
+}
